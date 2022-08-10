@@ -10,3 +10,7 @@ $ git commit -m "first commit"
 $ git remote add origin https://github.com/GaganNag19/Git-Course.git
 $ git push -u origin master
 $ git status
+$ git status -s
+$ git diff --staged
+$ git diff
+$ git commit -a -m "This is fourth comit"
