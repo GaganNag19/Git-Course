@@ -1,0 +1,12 @@
+$ git --version
+$ git config --global user.name "Gagan N"
+$ git config --global user.email "gagan.n@ge.com"
+$ git config --list
+$ cd Desktop/GE_Course/GIT/
+$ git init
+$ echo "# This is simple repo for learning purposes" >> README.md
+$ git add .
+$ git commit -m "first commit"
+$ git remote add origin https://github.com/GaganNag19/Git-Course.git
+$ git push -u origin master
+$ git status
